@@ -56,14 +56,15 @@ WELL DONE!!
 
 ## RUNNING The Project
 
-1> Now on "SECOND"(from the two opened Before) Terminal write Put contract on Blockchain
+1> Now on "SECOND"(from the two opened Before) Terminal write the following command to put contract on Blockchain.
 ```bash
 npx hardhat run scripts/deploy.js --network localhost
 ```
-Now Run the final GUI
+Now Run the final GUI Project
 ```bash
 npm run dev
 ```
+Now Visit [http://localhost:3000/](http://localhost:3000/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
