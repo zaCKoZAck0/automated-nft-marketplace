@@ -43,7 +43,9 @@ npx hardhat node
 ```
 2> Few Accounts Will Appear (20), choose any one of them and copy the private key.  
 3> Go to Metamask Extension, make sure you are on localhost server. Click on round icon top right and click `Import Account`
+
 ![wallet](https://metamask.zendesk.com/hc/article_attachments/360079624651/Screen_Shot_2020-12-14_at_9.09.54_AM.png)
+
 Paste Your Private key and and Click `Import`.
 
 ![import](https://metamask.zendesk.com/hc/article_attachments/360079624631/Screen_Shot_2020-12-14_at_9.10.07_AM.png)
