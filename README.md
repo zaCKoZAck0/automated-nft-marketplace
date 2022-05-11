@@ -21,7 +21,7 @@ npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 ```
 
 ## Usage
--1> Install [Metamask Wallet](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) on your browser and do the initial setup.(Click on create Wallet in the Auto generated Webpage and Follow Along.), Now Click on Extension and switch the wallet server to localhost 8545, by clicking on drop down menu named `Ethereum Mainnet`.
+-1> Install [Metamask Wallet](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en) on your browser and do the initial setup.(Click on create Wallet in the Auto generated Webpage and Follow Along.), Now Click on Extension and switch the wallet server to `localhost 8545`, by clicking on drop down menu named `Ethereum Mainnet`.
 
 ![server](https://i.stack.imgur.com/PKoHe.png)
     
