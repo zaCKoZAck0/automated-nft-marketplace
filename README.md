@@ -15,7 +15,7 @@ ethereum-waffle chai @nomiclabs/hardhat-ethers \
 web3modal @openzeppelin/contracts ipfs-http-client \
 axios
 ```
-4> And Now run
+5> And Now run
 ```bash
 npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 ```
@@ -46,13 +46,13 @@ npx hardhat node
 
 ![wallet](https://metamask.zendesk.com/hc/article_attachments/360079624651/Screen_Shot_2020-12-14_at_9.09.54_AM.png)
 
-Paste Your Private key and and Click `Import`.
+4> Paste Your Private key and and Click `Import`.
 
 ![import](https://metamask.zendesk.com/hc/article_attachments/360079624631/Screen_Shot_2020-12-14_at_9.10.07_AM.png)
 
-Your Current Account Should Have 10000 eth now.
+Your Current Account Should Have `10000 eth` now.
 
-WELL DONE!!  
+`WELL DONE!!`  
 
 ## RUNNING The Project
 
@@ -60,11 +60,11 @@ WELL DONE!!
 ```bash
 npx hardhat run scripts/deploy.js --network localhost
 ```
-Now Run the final GUI Project
+2> Run the final GUI Project
 ```bash
 npm run dev
 ```
-Now Visit [http://localhost:3000/](http://localhost:3000/)
+3> Visit [http://localhost:3000/](http://localhost:3000/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
